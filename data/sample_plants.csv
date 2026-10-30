@@ -1,0 +1,7 @@
+plant_name,growth_rate_cm_year,mature_height_m,sunlight
+Demo Plant A,35,8,full sun
+Demo Plant B,12,6,partial shade
+Demo Plant C,42,15,full sun
+Demo Plant D,,,shade
+Demo Plant E,24,7,partial shade
+Demo Plant F,26,3,shade

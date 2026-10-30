@@ -1,0 +1,7 @@
+plant_name,growth_rate_cm_year,mature_height_m,sunlight,status,reason
+Demo Plant A,35,8,full sun,QUALIFIED,Meets all specified thresholds
+Demo Plant B,12,6,partial shade,EXCLUDED,Does not meet one or more thresholds
+Demo Plant C,42,15,full sun,EXCLUDED,Does not meet one or more thresholds
+Demo Plant D,,,shade,REVIEW,Missing or invalid growth/height data
+Demo Plant E,24,7,partial shade,QUALIFIED,Meets all specified thresholds
+Demo Plant F,26,3,shade,EXCLUDED,Does not meet one or more thresholds

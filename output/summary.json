@@ -1,0 +1,17 @@
+{
+  "total": 6,
+  "counts": {
+    "QUALIFIED": 2,
+    "EXCLUDED": 3,
+    "REVIEW": 1
+  },
+  "criteria": {
+    "min_growth_cm_year": 20,
+    "max_height_m": 10,
+    "sunlight": [
+      "full sun",
+      "partial shade"
+    ]
+  },
+  "note": "Demonstration only. Input fields are supplied data, not independently verified botanical claims."
+}
